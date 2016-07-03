@@ -36,6 +36,9 @@ p.puzzle.number {
 }
 
 #bonus {
+    background-image: url("../images/adw.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
 }
 
 .cd-container {
